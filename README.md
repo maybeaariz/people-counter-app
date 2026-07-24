@@ -84,7 +84,7 @@ Through building this project, I practised:
 # 📸 Preview
 
 <p align="center">
-  <img src="people-counter-app-screenshot.png" alt="People Counter App Preview" width="100%">
+  <img src="people-counter-app-screenshot.png" alt="People Counter App Preview" width="600">
 </p>
 
 ---
