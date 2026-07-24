@@ -81,44 +81,11 @@ Through building this project, I practised:
 
 ---
 
-# 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/maybeaariz/people-counter-app.git
-```
-
-Navigate into the project:
-
-```bash
-cd people-counter-app
-```
-
-Open the application:
-
-```
-Open index.html in your browser
-```
-
----
-
 # 📸 Preview
 
 <p align="center">
   <img src="people-counter-app-screenshot.png" alt="People Counter App Preview" width="100%">
 </p>
-
----
-
-# 🔮 Future Improvements
-
-- Add local storage support
-- Add animations and transitions
-- Improve mobile responsiveness
-- Add custom counter categories
-- Add statistics tracking
-- Create a more advanced dashboard
 
 ---
 
