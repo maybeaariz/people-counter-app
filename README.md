@@ -58,9 +58,7 @@ people-counter-app/
 ├── index.css
 ├── index.js
 ├── station.jpg
-│
-├── screenshots/
-│   └── people-counter-app-screenshot.png
+├── people-counter-app-screenshot.png
 │
 └── README.md
 ```
